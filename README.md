@@ -1,4 +1,4 @@
-# CafewebDesing
+# İnternet Cafe Web Tasarım
 
 İşletmenin istekleri doğrultusunda internet cafe için tasarımı değiştirilip üzerindeki düzenlemeler sayesinde kullanıcıların bilgilendirilmesi sağlandı. 
 site kullanıcılara açık halde kullanıldı.
